@@ -5,5 +5,14 @@
   "main": "index.js",
   "author": "Ricardo Silva",
   "license": "MIT",
-  "private": false
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
