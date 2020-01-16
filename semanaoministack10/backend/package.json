@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend in js",
+  "main": "index.js",
+  "author": "Ricardo Silva",
+  "license": "MIT",
+  "private": false
+}
